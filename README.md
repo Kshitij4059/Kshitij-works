@@ -4,7 +4,7 @@
  Tech Enthusiast | Exploring development, data analysis, and database management  
  Passionate about learning, building real-world projects, and improving every day  
 ###  I’m currently working on:
-- Building real-world projects to strengthen my skills  
+- Building real-world projects to strengthen my skills 
 
 ###  I’m currently learning:
 - Improving my knowledge in programming and tools  
