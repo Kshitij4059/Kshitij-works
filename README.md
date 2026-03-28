@@ -20,7 +20,7 @@
 
 ###  How to reach me:
 - Email: kshitijjagtap412@gmail.com
-- LinkedIn: linkedin.com/in/kshitijjagtap412
+- LinkedIn: linkedin.com/in/kshitijjagtap0
 - 
 ###  Fun fact:
 - I believe consistency beats talent
